@@ -1,0 +1,53 @@
+body {
+	background-color: #2d2d2d;
+}
+
+.nav {
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.breadcrumb {
+	background-color: #134b50;
+	border-radius: 0;
+}
+
+.breadcrumb-item.active {
+	color: #fff;
+}
+
+a, a:hover {
+	color: #fff;
+}
+
+table {
+	margin: 100px 10px;
+}
+
+thead {
+	background-color: #262729;
+	cursor: pointer;
+}
+
+tbody {
+	height: 300px;
+	overflow-y: scroll;
+	display: block;
+}
+
+thead, tbody tr {
+	display: table;
+	table-layout: fixed;
+	width:  100%;
+}
+
+.fa-file, .fa-folder {
+	font-size: 18px;
+	color: #99d3d8;
+}
+
+.footer {
+	color: #99d3d8;
+	text-align: center;
+}

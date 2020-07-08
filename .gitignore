@@ -1,1 +1,9 @@
-static/
+static/code/
+static/images/
+static/media/
+static/Projects/
+static/Purchased Books/
+static/file.txt
+static/form.html
+playground/
+.DS_Store

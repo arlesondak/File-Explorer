@@ -4,6 +4,7 @@
 const http = require('http');
 
 // file imports
+const respond = require('./lib/respond.js');
 
 // connection settings
 // if port not found in process.env, then use 3000
